@@ -14,15 +14,11 @@
 
 ## 🌐 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250"/>
-</p>
-
 - 🔭 I’m currently working on **FullStack + AI + Cloud DevOps projects**  
 - 🌱 Learning **AI infrastructure, scalable systems & cloud optimization**  
 - 👯 Open to collaborate on **Open-Source & AI tools**  
 - 💬 Ask me about **React, Node.js, AWS, Docker, GCP, Python**  
-- 📫 Connect with me: [LinkedIn](https://linkedin.com/in/your-linkedin) | [Email](mailto:your.email@example.com)
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/edwin-r-rivera-86b6683a6/) | [Email](edwinrivera19955@gmail.com)
 
 ---
 
@@ -63,17 +59,11 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/edwin-r-rivera-86b6683a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:edwinrivera19955@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
 ### ✨ Fun Fact
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="200"/>
-</p>
-
 > "Code is like magic — the better you understand it, the more spells you can cast." 🪄
