@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Edwin Rivera
 
-![Header Animation](https://media.giphy.com/media/3o7TKsQ1dwnY0pJ5So/giphy.gif)
+![Header Animation](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
 
 ## 🚀 About Me
 
